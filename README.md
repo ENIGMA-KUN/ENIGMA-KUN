@@ -28,6 +28,8 @@
 
 - 📄 Know about my game experiences [https://steamcommunity.com/id/ENIGMA_KUN](https://steamcommunity.com/id/ENIGMA_KUN)
 
+- GameJam2021 [https://enigma-kun.itch.io/corona-frenzy](https://enigma-kun.itch.io/corona-frenzy)
+
 - ⚡ Fun fact **I am Otaku**
 
 ## 🌐 Languages and Tools :
