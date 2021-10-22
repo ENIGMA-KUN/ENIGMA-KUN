@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ENIGMA-KUN](https://github.com/ENIGMA-KUN)
 
-- 💬 Ask me about **Python,JavaScript,Node.Js,VideoGames,Anime**
+- 💬 Ask me about **Python,JavaScript,Node.Js,Esports**
 
 - 📫 How to reach me **shubham007kog@gmail.com**
 
