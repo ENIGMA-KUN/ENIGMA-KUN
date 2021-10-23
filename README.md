@@ -32,7 +32,7 @@
 
 - GameJam2021 [https://enigma-kun.itch.io/corona-frenzy](https://enigma-kun.itch.io/corona-frenzy)
 
-- ⚡ Fun fact **I am Otaku**
+- ⚡ Fun fact **I am Otaku XD**
 
 ## 🌐 Languages and Tools :
 <p align="left">
