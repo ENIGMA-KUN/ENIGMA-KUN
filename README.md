@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-## 💡 Connect with me :
+## 💡 Connect with me:
 <p align="left"> 
 <a href="https://twitter.com/ENIGMAKUN1" target="blank"><img src="https://img.shields.io/twitter/url?label=ENIGMA%20KUN&style=social" alt="ENIGMAKUN1" /></a>&nbsp
 <a href="https://github.com/ENIGMA-KUN" target="_blank"><img src="https://img.shields.io/github/followers/ENIGMA-KUN?label=Github%20&style=social" alt="enigmakun.github.io" /></a>&nbsp
