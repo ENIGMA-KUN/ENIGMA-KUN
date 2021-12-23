@@ -34,7 +34,7 @@
 
 - Steam Account [https://steamcommunity.com/id/ENIGMA_KUN](https://steamcommunity.com/id/ENIGMA_KUN)
 
-- ⚡ Fun fact **I am Otaku xD!**
+- ⚡ Fun fact **I am Otaku xD!!!!**
 
 ## 🌐 Languages and Tools :
 <p align="left">
