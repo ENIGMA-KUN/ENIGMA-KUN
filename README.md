@@ -14,7 +14,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Noob Programmer, Developer & Gamer!</h3>
+<h3> 🧑 I'm a Noob Programmer, Developer & Gamer!!</h3>
 
 - 🔭 I’m currently working on [Crown Monkey & Personal Development Skills]
 
