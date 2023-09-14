@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Python,JavaScript,Node.Js,Esports**
 
-- 📫 How to reach me **shubham007kog@gmail.com**
+- 📫 How to reach me **shubhamio.exe@gmail.com** https://leetcode.com/ENIGMA_KUN/
 
 - 📄 Know about my game experiences [https://steamcommunity.com/id/ENIGMA_KUN](https://steamcommunity.com/id/ENIGMA_KUN)
 
