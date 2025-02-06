@@ -1,8 +1,7 @@
 # Shubham Chakraborty
 
-<div align="center">
-  <img height="300" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707"/>
-</div>
+
+![tenor](https://github.com/user-attachments/assets/42ea2609-ac5f-4443-be30-afaedefe6f0a)
 
 
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
