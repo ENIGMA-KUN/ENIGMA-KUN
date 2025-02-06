@@ -1,9 +1,9 @@
 # Shubham Chakraborty
 
-<div align="right">
-  <img src="https://tenor.com/bCNex.gif" width="200" height="200" alt="AI/ML Animation">
+<div align="center">
+  <img height="300" src="https://tenor.com/bCNex.gif"/>
 </div>
-<img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
 
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
