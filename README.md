@@ -1,7 +1,9 @@
 # Shubham Chakraborty
 
 
-![tenor](https://github.com/user-attachments/assets/42ea2609-ac5f-4443-be30-afaedefe6f0a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/42ea2609-ac5f-4443-be30-afaedefe6f0a" width="600"/>
+</div>
 
 
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
