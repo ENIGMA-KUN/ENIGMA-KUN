@@ -1,7 +1,7 @@
 # Shubham Chakraborty
 
 <div align="center">
-  <img height="300" src="https://tenor.com/bCNex.gif"/>
+  <img height="300" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707"/>
 </div>
 
 
